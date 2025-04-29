@@ -1,4 +1,14 @@
+# Entorno virtual
 env/
+
+# Archivos Python generados
 __pycache__/
 *.pyc
 .ipynb_checkpoints
+
+# Archivos pesados / no deseados
+*.pt
+videos/
+models/
+output/
+
